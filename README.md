@@ -1,2 +1,1 @@
-# SmokShaderCompiling
- Scripts for compilng shaders
+The python scripts for comping shader code to Spr-V binaries
